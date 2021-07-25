@@ -1,8 +1,8 @@
-from make_combinations import *
 from combine_files import *
-from unique_text_writer import *
-from combos_v2 import *
 from combine_names import *
+from combos_v2 import *
+from make_combinations import *
+from unique_text_writer import *
 
 if __name__ == '__main__':
     input_files = ['adjectives.txt', 'english-adjectives.txt'] 

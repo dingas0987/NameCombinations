@@ -11,7 +11,7 @@ def new_combos(filename, complist, adjs, result_file):
                         # Adjective List
                         with open(adjs, "r") as readadjs:
                             for k in readadjs:
-                                for num in range (0, 15):
+                                for num in range (0, 100):
                                     if num == 0:
                                         # Computer Term
                                         writecombos.write(j.strip('\n') + '\n')
