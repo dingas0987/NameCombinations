@@ -127,3 +127,22 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Junk files
+codecamp_scrape_tut.py
+adj_list_test.txt
+adjectives.txt
+combined_adj.txt
+comp_term_test.txt
+computer_programming_terms.txt
+downloaded.txt
+english-adjectives.txt
+last-names.txt
+male.txt
+male_test.txt
+name_combination.txt
+name_combinations.txt
+res_adj.txt
+result_test_updated.txt
+test.txt
+updated_combos.txt
